@@ -20,7 +20,7 @@
   min-height: 100vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("/asset/beranda.PNG");
+    url("asset/beranda.PNG");
   position: relative;
 }
 
@@ -28,7 +28,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/asset/beranda.PNG");
+  background-image: url("asset/beranda.PNG");
   opacity: 0.45;
   background-repeat: no-repeat;
   background-position: center;
@@ -50,7 +50,7 @@
 
 /* Panduan Pendaftaran */
 .panduan {
-  background-image: url("/asset/background.PNG");
+  background-image: url("asset/background.PNG");
   padding: 100px 0 100px 0;
 }
 
