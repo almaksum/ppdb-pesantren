@@ -84,7 +84,7 @@ footer li {
   list-style: none;
   padding-bottom: 10px;
   text-align: left;
-  padding-left: 145px;
+  padding-left: 125px;
 }
 
 footer .creat {
@@ -103,6 +103,9 @@ footer .creat #heart {
 
   .beranda h5 {
     font-size: 1rem;
+  }
+  nav .navbar-brand .brand-text {
+    font-size: 15px;
   }
   /* 
   .alur {
