@@ -84,7 +84,7 @@ footer li {
   list-style: none;
   padding-bottom: 10px;
   text-align: left;
-  padding-left: 120px;
+  padding-left: 135px;
 }
 
 footer .creat {
@@ -111,6 +111,10 @@ footer .creat #heart {
   .panduan p {
     padding: 0 15px 0 15px;
     font-size: 20px;
+  }
+
+  footer li {
+    padding-left: 117px;
   }
   /* 
   .alur {
