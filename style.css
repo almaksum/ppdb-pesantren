@@ -107,6 +107,10 @@ footer .creat #heart {
   nav .navbar-brand .brand-text {
     font-size: 15px;
   }
+
+  .panduan p {
+    padding: 0 10px 0 10px;
+  }
   /* 
   .alur {
     padding-top: 60px;
